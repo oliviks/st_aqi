@@ -458,3 +458,5 @@ col1[0].write('')
 col1[0].write('')
 col1[0].write('**Names:**    Oliwia K., Alicja R., Grzegorz L.')
 col1[0].write('**University:**    Kozminski University')
+
+# In the terminal: streamlit run aqifinal3.py
